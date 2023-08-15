@@ -1,0 +1,21 @@
+{
+  "app_title": "اختبار",
+  "login_with_facebook": "تسجيل دخول بواسطة فيسبوك",
+  "login_with_google": "تسجيل دخول بواسطة جوجل",
+  "login_with_whatsapp": "تسجيل دخول بواسطة واتساب",
+  "login_with_mobile": "تسجيل دخول باستخدام رقم الموبايل",
+  "login_as_guest": "تسجيل الدخول كضيف",
+  "staff_id_register": "ادخل الرقم الوظيفي",
+  "mobile_number_register" : "ادخل رقم الجوال",
+  "password_register" : "ادخل كلمة المرور",
+  "register_text" : "تسجيل حساب جديد",
+  "email_register" : "ادخل البريد الالكتروني",
+  "confirm_password_text": "ادخل تأكيد كلمة المرور",
+  "name_register" : "ادخل اسمك بالكامل",
+  "login_text" : "تسجيل الدخول",
+  "login_button_text" : "تسجيل",
+  "create_new_account_button_text" : "انشاء حساب جديد",
+  "add_new_section_text" : "اضافة شعبة جديدة",
+  "all_sections_title" : "جميع الشعب",
+  "add_students" : "اضافة طلاب"
+}
